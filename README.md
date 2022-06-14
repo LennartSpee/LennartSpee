@@ -1,6 +1,6 @@
 # Hi there 👋 Lennart here.
 ## I am a Web Developer from Dortmund Germany, currently living in Lisbon Portugal. 
-### Get in touch with me via lennartspee.com or my agencies website digitallokal.de or just stick to GitHub 😄
+### Get in touch with me via https://lennartspee.com or my agencies website https://digitallokal.de or just stick to GitHub 😄
 
 ⚡ I am currently improving my ruby on rails and JS skills, while still tackeling own projects and project lead for my agency.
 💬 Ask me about surf spots in Portugal or which mistakes to avoid running a small business in Europe.
